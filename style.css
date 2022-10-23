@@ -1,0 +1,55 @@
+body{
+    background-color : #f0f0f0;
+    margin-inline: 5%;
+}
+
+/* Table Styles */
+table{
+    border: 1px solid #f0f0f0;
+}
+
+.container{
+    position: relative;
+}
+
+.container > div {
+    margin : 5%;
+    display: inline-block;
+}
+
+caption{
+    font-size: 35px;
+}
+
+caption:hover{
+    font-weight: bold;
+}
+
+
+th{
+    color : white;
+}
+
+#tech > table{
+    border-color: purple;
+}
+
+span{
+    color : purple;
+}
+
+div#tech th{
+    background-color: purple;
+}
+
+#hc > table{
+    border-color: darkblue;
+}
+
+#hc  th{
+    background-color: darkblue;
+}
+
+.font-bold{
+    font-weight: bold;
+}
